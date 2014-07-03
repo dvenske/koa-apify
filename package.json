@@ -1,0 +1,15 @@
+{
+  "name": "koa-apify",
+  "description": "Load API Route Configurations",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ryan Johnston <ryan@mediapixel.co.nz>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Firetrust/koa-apify.git"
+  },
+  "dependencies": {
+    "debug": "^1.0.2",
+    "koa-route": "^1.1.4"
+  }
+}
