@@ -9,7 +9,7 @@
     "url": "https://github.com/Firetrust/koa-apify.git"
   },
   "dependencies": {
-    "debug": "^1.0.2",
+    "debug": "*",
     "koa-route": "^1.1.4"
   }
 }
