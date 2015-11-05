@@ -1,14 +1,16 @@
 {
   "name": "koa-apify",
   "description": "Load API Route Configurations",
-  "version": "1.0.0",
-  "author": "Ryan Johnston <ryan@mediapixel.co.nz>",
+  "version": "1.0.5",
+  "author": "Deane Venske <deane@venske.net>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Firetrust/koa-apify.git"
+    "url": "https://github.com/dvenske/koa-apify"
   },
   "dependencies": {
     "debug": "*",
-    "koa-route": "^1.1.4"
+    "koa-route": "^1.1.4",
+    "glob": "*",
+    "path": "*"
   }
 }
